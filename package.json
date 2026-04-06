@@ -1,0 +1,20 @@
+{
+  "name": "csc307-gitlab",
+  "version": "1.0.0",
+  "description": "Git fun",
+  "homepage": "https://github.com/naterjacob/csc307-gitlab#readme",
+  "bugs": {
+    "url": "https://github.com/naterjacob/csc307-gitlab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naterjacob/csc307-gitlab.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
